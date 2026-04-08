@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=CreditSense%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Credit%20Appraisal%20for%20Indian%20Corporate%20Lending&descAlignY=60&descColor=5DCAA5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=FINROCK%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Credit%20Appraisal%20for%20Indian%20Corporate%20Lending&descAlignY=60&descColor=5DCAA5" width="100%"/>
 
 <!-- BADGES ROW 1 -->
 <p>
@@ -23,7 +23,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  3 weeks of analyst work  →  40 seconds with CreditSense AI ║
+║  3 weeks of analyst work  →  40 seconds with FINROCK ║
 ║  ₹3–5 lakh per appraisal  →  ₹800 per appraisal             ║
 ║  Word doc audit trail     →  Blockchain-verified forever     ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -39,11 +39,11 @@
 
 ---
 
-## 🧠 What Is CreditSense AI?
+## 🧠 What Is FINROCK?
 
 > *Indian banks lose ₹32,000 crore a year to advance-related fraud. Not because they lack data — but because no system reads all of it together.*
 
-**CreditSense AI** is an autonomous credit appraisal agent built as a **POMDP-based Reinforcement Learning environment** (`CreditAppraisalEnv-v1`). It works exactly like a senior credit manager:
+**FINROCK** is an autonomous credit appraisal agent built as a **POMDP-based Reinforcement Learning environment** (`FINROCK`). It works exactly like a senior credit manager:
 
 - Sees **partial information** at the start (just a company name)
 - **Decides which documents to request** next — sequentially, under uncertainty
@@ -60,7 +60,7 @@ This is not a batch processor. It is an agent that thinks.
 
 <div align="center">
 
-| The Old Way | CreditSense AI |
+| The Old Way | FINROCK |
 |---|---|
 | 2–4 weeks per appraisal | **40 seconds** |
 | ₹3–5 lakh analyst cost | **₹800 API cost** |
@@ -72,7 +72,7 @@ This is not a batch processor. It is an agent that thinks.
 
 </div>
 
-> RBI's 2024-25 report: advance-related frauds = **over 90% of all banking fraud value**. CreditSense AI detects the 5 patterns behind India's biggest banking scandals — automatically.
+> RBI's 2024-25 report: advance-related frauds = **over 90% of all banking fraud value**. FINROCK detects the 5 patterns behind India's biggest banking scandals — automatically.
 
 ---
 
@@ -80,7 +80,7 @@ This is not a batch processor. It is an agent that thinks.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    CreditAppraisalEnv-v1                        │
+│                    FINROCKEnv-v1                        │
 │                   (POMDP — Partially Observable)                │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
